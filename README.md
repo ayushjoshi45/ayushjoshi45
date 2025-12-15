@@ -1,20 +1,18 @@
-<h1 align="center">
-  Hi 👋, I'm Ayush Joshi
-</h1>
+<h1 align="center">Hi 👋, I'm Ayush Joshi</h1>
 
 <h3 align="center">
-  🚀 Full-Stack MERN Developer | Next.js | Problem Solver
+🚀 Final-Year B.Tech Student | Full-Stack MERN Developer | Problem Solver
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-joshi-439470252/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Joshi-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/ayush-joshi-439470252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Joshi-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://www.leetcode.com/ayyux">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode">
+  <a href="https://www.leetcode.com/ayyux" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20Enthusiast-orange?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="mailto:ayushjoshi3725@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Open%20to%20Work-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -24,30 +22,32 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+<img align="right" alt="Coding" width="390" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
-## 👨‍💻 Who Am I?
+## 👨‍💻 About Me
 
-- 🎓 **B.Tech (3rd Year)** student passionate about software engineering  
-- 💻 **Full-Stack Developer** specializing in **MERN & Next.js**
-- 🔍 Strong focus on **clean architecture, scalable APIs & UI performance**
-- 🧠 Solving **DSA problems** regularly on LeetCode  
-- 🚀 Building **real-world products**, not just tutorials  
-- 🎯 Targeting **high-impact internships & 10+ LPA off-campus roles**
+I am a **final-year B.Tech student** and a **passionate Full-Stack Developer** who loves turning ideas into **scalable, real-world web applications**.
 
----
-
-## 🔥 What Makes Me Stand Out?
-
-✅ End-to-end product thinking (UI → API → Database)  
-✅ Experience with **authentication, authorization & real-time features**  
-✅ Strong debugging mindset  
-✅ Comfortable working with **REST APIs & third-party integrations**  
-✅ Passionate about **learning fast & shipping faster**
+- 🎓 Final-Year **B.Tech (Computer Science / IT)**
+- 💻 Strong in **MERN Stack & Next.js**
+- 🧠 Regular **DSA & problem-solving** practice
+- 🔐 Experience with **Auth, APIs, Databases & Deployment**
+- 🚀 Actively looking for **Full-Time / Internship / PPO opportunities**
+- 🎯 Goal: **Join a product-based company & grow as a software engineer**
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 What I Bring to the Table
+
+✔ Ability to build **complete products from scratch**  
+✔ Clean, maintainable & scalable code  
+✔ Solid understanding of **frontend + backend integration**  
+✔ Strong debugging & problem-solving mindset  
+✔ Comfortable working independently or in teams  
+
+---
+
+## 🛠️ Technical Skills
 
 ### 🌐 Frontend
 <p>
@@ -77,23 +77,31 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Projects
 
-- 📸 **Instagram Clone (MERN)**  
-  Authentication, image uploads, likes, comments, Cloudinary integration  
+### 📸 Instagram Clone (MERN)
+- Secure authentication & authorization  
+- Image upload with Cloudinary  
+- Likes, comments & user profiles  
 
-- 🏠 **Airbnb-like Platform**  
-  Listings, reviews, user roles, booking logic  
+### 🏠 Airbnb-Like Platform
+- Property listings & reviews  
+- Role-based access  
+- Scalable backend APIs  
 
-- 💰 **Personal Finance Tracker**  
-  Income/expense tracking, analytics dashboard  
+### 💰 Personal Finance Tracker
+- Income & expense tracking  
+- Monthly analytics dashboard  
+- Data persistence with MongoDB  
 
-- 🎥 **Live Interview Platform** *(In Progress)*  
-  WebRTC video calls + shared code editor (Google Docs-like)
+### 🎥 Live Interview Platform *(Ongoing)*
+- WebRTC video calling  
+- Shared real-time code editor  
+- Designed for technical interviews  
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayush-joshi07&show_icons=true&theme=tokyonight" width="48%"/>
@@ -106,21 +114,20 @@
 
 ---
 
-## 📌 Currently Exploring
-- ⚡ Advanced **Next.js & Server Components**
-- 🔐 Authentication & Security Best Practices
-- 🌐 System Design fundamentals
-- 🤖 AI-powered developer tools
+## 📚 Currently Improving
+- Advanced **Next.js & Performance Optimization**
+- **System Design Basics**
+- Backend scalability & security
+- Writing clean, production-ready code
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Open to Opportunities
 
-💼 Open to **Internships, Freelance & Full-time Roles**  
+🎯 **Full-Time Roles | Internships | PPOs**  
 📬 Email: **ayushjoshi3725@gmail.com**
 
 ---
 
-⭐ **If you like my work, don’t forget to star my repositories!**  
-🚀 *Always building. Always learning.*
-
+⭐ *If my work interests you, feel free to explore my repositories and connect with me!*  
+🚀 **Building today. Growing every day.**
