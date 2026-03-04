@@ -108,7 +108,7 @@ Simple analytics-driven expense tracker.
 
 ## 🤝 Let’s Connect
 
-If you’re building something exciting — I’d love to talk.
+If you’re building something exciting — I’d love to talk about that.
 
 📬 **ayushjoshi3725@gmail.com**
 
