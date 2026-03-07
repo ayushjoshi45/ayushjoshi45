@@ -88,12 +88,12 @@ Simple analytics-driven expense tracker.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayush-joshi07&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-joshi07&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushjoshi45&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjoshi45&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-joshi07&layout=compact&theme=tokyonight"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjoshi45&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
