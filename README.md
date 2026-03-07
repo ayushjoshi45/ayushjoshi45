@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=200&section=header&text=Ayush%20Joshi&fontSize=40&fontColor=ffffff"/>
+</p>
 <h1 align="center">🚀 Hey — I'm Ayush Joshi</h1>
 
 <p align="center">
