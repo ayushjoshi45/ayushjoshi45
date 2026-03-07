@@ -89,7 +89,7 @@ Simple analytics-driven expense tracker.
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushjoshi45&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjoshi45&theme=tokyonight"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=ayushjoshi45&theme=tokyonight"/>
 </p>
 
 <p align="center">
