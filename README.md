@@ -107,7 +107,7 @@ Simple analytics-driven expense tracker.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let’s Connect Now
 
 If you’re building something exciting — I’d love to talk about that.
 
