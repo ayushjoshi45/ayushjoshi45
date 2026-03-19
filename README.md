@@ -309,7 +309,7 @@ const ayush = {
 
 <p align="center">
   I'm actively looking for <b>Internships</b> and <b>Full-Time SDE roles</b>.<br/>
-  If you're working on something interesting, let's connect!
+  If you're working on something interesting, let's connect now!
 </p>
 
 <p align="center">
