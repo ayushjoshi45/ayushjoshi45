@@ -290,15 +290,15 @@ const ayush = {
 </p>
 
 ---
-
+<!--
 ## Problem Solving
 
-<p align="center">
+ <p align="center"> 
   <a href="https://leetcode.com/ayyux/">
     <img src="https://leetcard.jacoblin.cool/ayyux?theme=dark&font=Nunito&ext=heatmap" width="60%"/>
   </a>
 </p>
-
+-->
 ---
 
 ## Let's Build Something
