@@ -132,7 +132,7 @@ If you’re building something exciting — I’d love to talk about that.
 
 ```typescript
 const ayush = {
-  role: "Full-Stack Developer",
+  role: "Software Engineer || Full-Stack Developer",
   education: "B.Tech CSE (Final Year)",
   focus: ["Web Applications", "System Design", "User Experience"],
   currentlyBuilding: "Career Tracker - Job Search Management Platform",
