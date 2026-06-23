@@ -201,7 +201,7 @@ const ayush = {
 
 ---
 
-## Featured Projects
+## Featured Project's
 
 <table>
 <tr>
