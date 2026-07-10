@@ -10,58 +10,82 @@
 
 ---
 
-## About
+## `whoami --backend`
 
-Backend software engineer specializing in distributed, event-driven systems. Experienced in designing and building services with Node.js, working with async messaging (Kafka, RabbitMQ), caching layers (Redis), real-time communication (WebSockets), and microservices architecture. Currently focused on backend integration systems and API design for product-scale applications.
-
-- Backend development with Node.js / Express
-- Distributed systems: Kafka, RabbitMQ, Redis
-- Real-time systems: WebSockets, event-driven architecture
-- Microservices design and API architecture
-- Actively seeking Backend SDE roles at product companies
+\`\`\`json
+{
+  "name": "Ayush Joshi",
+  "role": "Backend Software Engineer",
+  "focus": [
+    "Distributed Systems",
+    "Event-Driven Architecture",
+    "Microservices",
+    "API Design"
+  ],
+  "stack": {
+    "runtime": ["Node.js", "TypeScript", "JavaScript"],
+    "messaging": ["Kafka", "RabbitMQ"],
+    "caching": ["Redis"],
+    "realtime": ["WebSockets"],
+    "databases": ["PostgreSQL", "MongoDB", "MySQL"],
+    "testing": ["Jest", "Playwright"]
+  },
+  "currentlyBuilding": "Backend integration systems for production data sync",
+  "openTo": ["Backend SDE Roles", "Full-Time", "Distributed Systems Work"],
+  "status": "actively_shipping"
+}
+\`\`\`
 
 ---
 
-## Technical Skills
+## System Overview
 
-**Languages & Runtimes**
-`JavaScript` `TypeScript` `Node.js`
+Backend engineer specializing in distributed, event-driven systems. Designs and builds services with Node.js, working across async messaging (Kafka, RabbitMQ), caching layers (Redis), real-time communication (WebSockets), and microservices architecture. Currently focused on backend integration systems and API design at production scale.
 
-**Backend & Messaging**
-`Express` `REST API Design` `Microservices` `Kafka` `RabbitMQ` `Redis` `WebSockets`
+---
 
-**Databases**
-`PostgreSQL` `MongoDB` `MySQL`
+## Core Competencies
 
-**Testing**
-`Jest` `Playwright` `Integration Testing` `E2E Testing`
-
-**Infrastructure & Tools**
-`Docker` `Git` `CI/CD` `Postman` `AWS (learning)`
+| Domain | Technologies |
+|---|---|
+| **Languages** | `JavaScript` `TypeScript` `Node.js` |
+| **Backend & Messaging** | `Express` `REST API Design` `Microservices` `Kafka` `RabbitMQ` `Redis` `WebSockets` |
+| **Databases** | `PostgreSQL` `MongoDB` `MySQL` |
+| **Testing** | `Jest` `Playwright` `Integration Testing` `E2E Testing` |
+| **Infrastructure** | `Docker` `Git` `CI/CD` `Postman` `AWS` |
 
 ---
 
 ## Experience
 
-**Backend Engineering Intern — FitMedik**
-Contributed to backend systems involving Kafka, RabbitMQ, Redis, and WebSocket-based real-time features within a microservices architecture.
+\`\`\`
+> FitMedik — Backend Engineering Intern
+  ├─ Built backend services within a microservices architecture
+  ├─ Implemented async processing with Kafka & RabbitMQ
+  ├─ Integrated Redis for caching and performance
+  └─ Developed WebSocket-based real-time features
+\`\`\`
 
 ---
 
 ## Featured Projects
 
-### Career Tracker
-Full-stack job search management platform built with Next.js, TypeScript, PostgreSQL, and Drizzle ORM.
+### `career-tracker`
+Full-stack job search management platform.
+**Stack:** `Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM`
+
 - Kanban-style application tracking with drag-and-drop
 - Interview scheduling and reminders
-- Analytics dashboard for tracking application metrics
+- Analytics dashboard for application metrics
 
 [Code](https://github.com/ayushjoshi45/career-tracker) · [Live Demo](https://career-tracker.vercel.app)
 
-### Live Interview Platform
-Real-time technical interview platform with peer-to-peer video and collaborative code editing.
-- WebRTC-based video calling
-- Shared, real-time code editor
+### `live-interview-platform`
+Real-time technical interview system.
+**Stack:** `React` `Node.js` `WebRTC` `Socket.io` `MongoDB`
+
+- Peer-to-peer video calling
+- Collaborative, real-time code editor
 - Role-based authentication and access control
 
 [Code](https://github.com/ayushjoshi45/interview-platform) · [Live Demo](https://interview-platform.vercel.app)
@@ -79,15 +103,23 @@ Real-time technical interview platform with peer-to-peer video and collaborative
 
 ## Currently Learning
 
-- Advanced system design for distributed backend systems
-- Docker and containerized deployments
-- Cloud infrastructure fundamentals (AWS)
+\`\`\`json
+{
+  "systemDesign": "distributed backend architecture",
+  "infrastructure": "Docker, containerized deployments",
+  "cloud": "AWS fundamentals"
+}
+\`\`\`
 
 ---
 
-## Get In Touch
+## Contact
 
-Open to Backend SDE internships, full-time roles, and interesting engineering conversations.
+\`\`\`
+$ status: open_to_work
+$ roles: ["Backend SDE", "Full-Time", "Internship"]
+$ reach: ayushjoshi3725@gmail.com
+\`\`\`
 
 <p align="center">
   <a href="mailto:ayushjoshi3725@gmail.com">
