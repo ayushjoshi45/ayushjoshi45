@@ -218,7 +218,6 @@ const ayush = {
 - Goal tracking & progress metrics
 
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ayushjoshi45/career-tracker)
-[![Live](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel)](https://career-tracker.vercel.app)
 
 </td>
 <td width="50%">
@@ -234,7 +233,6 @@ const ayush = {
 - Interview recording & playback
 
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ayushjoshi45/interview-platform)
-[![Live](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel)](https://interview-platform.vercel.app)
 
 </td>
 </tr>
