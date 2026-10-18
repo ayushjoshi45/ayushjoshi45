@@ -135,7 +135,7 @@ const ayush = {
   role: "Software Engineer || Full-Stack Developer",
   education: "B.Tech CSE",
   focus: ["Web Applications", "System Design", "User Experience"],
-  currentlyBuilding: "Career Tracker - Job Search Management Platform",
+  currentlyBuilding: "ArcaneAI (AI workspace SaaS) & LinkBeam (URL shortener)",
   openTo: ["Internships", "Full-Time Roles", "Collaborations"],
 };
 ```
@@ -152,8 +152,10 @@ const ayush = {
 ### Current Focus
 
 - 📊 Advanced **Next.js** patterns & App Router
-- 🗄️ Database design with **PostgreSQL** & Drizzle ORM
+- 🗄️ Database design with **PostgreSQL**, MongoDB, Prisma & Drizzle ORM
 - 🔐 Authentication & authorization systems
+- ⚙️ Distributed systems — microservices, caching (Redis) & queues (RabbitMQ)
+- 🤖 AI agents, RAG pipelines & LLM orchestration
 - 📈 Building analytics dashboards
 
 ---
@@ -178,6 +180,14 @@ const ayush = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+### AI & LLM
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -187,12 +197,12 @@ const ayush = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### Currently Learning
 ![System Design](https://img.shields.io/badge/System%20Design-FF6B6B?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 </td>
@@ -201,11 +211,46 @@ const ayush = {
 
 ---
 
-## Featured Project's
+## Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+### 🚀 LinkBeam — URL Shortener
+**Microservices URL shortener with click analytics**
+
+`Next.js 16` `TypeScript` `Node.js` `Redis` `RabbitMQ` `MongoDB` `PostgreSQL`
+
+- Short links with per-click analytics (browser, device, OS, country, referrer)
+- Node.js microservices behind an API gateway, each owning its own datastore
+- Redis caching for fast redirects + RabbitMQ event pipeline into analytics
+- JWT & Google OAuth, fully containerized with Docker Compose
+
+[![Live](https://img.shields.io/badge/Live%20Demo-58a6ff?style=flat-square&logo=vercel&logoColor=white)](https://shortner.ayushjoshi.tech/)
+[![UI](https://img.shields.io/badge/UI%20Code-181717?style=flat-square&logo=github)](https://github.com/ayushjoshi45/url-shortener-ui)
+[![API](https://img.shields.io/badge/API%20Code-181717?style=flat-square&logo=github)](https://github.com/ayushjoshi45/url-shortener)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 ArcaneAI — AI Workspace
+**Multi-agent AI workspace (SaaS)**
+
+`React 19` `Node.js` `Express` `LLM Agents` `MongoDB` `Redis`
+
+- Chat, code, web search, PDF Q&A, vision and slide generation in one workspace
+- Agent graph classifies intent and dispatches to a specialized agent with shared memory
+- Streaming responses with in-app artifacts — code editor, decks and PDFs
+- JWT + refresh rotation, per-request credit metering & Razorpay billing
+
+[![Live](https://img.shields.io/badge/Live%20Demo-58a6ff?style=flat-square&logo=vercel&logoColor=white)](https://arcaneai.ayushjoshi.tech/)
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ayushjoshi45/Arcane)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎯 Career Tracker
 **Full-stack job search management platform**
@@ -217,10 +262,10 @@ const ayush = {
 - Analytics dashboard with charts
 - Goal tracking & progress metrics
 
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ayushjoshi45/career-tracker)
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ayushjoshi45/Career-Tracker)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎥 Live Interview Platform
 **Real-time technical interview system**
@@ -232,27 +277,12 @@ const ayush = {
 - Role-based authentication
 - Interview recording & playback
 
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ayushjoshi45/interview-platform)
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ayushjoshi45/Live-Interview-Platform)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### 📸 Instagram Clone
-**Production-ready social media app**
-
-`MERN Stack` `JWT` `Cloudinary` `Redux`
-
-- Secure authentication flow
-- Image uploads & optimization
-- Real-time notifications
-- Likes, comments & follows
-
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ayushjoshi45/instagram-clone)
-
-</td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💰 Finance Tracker
 **Personal expense management**
@@ -264,7 +294,7 @@ const ayush = {
 - Budget tracking
 - Export reports
 
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ayushjoshi45/finance-tracker)
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ayushjoshi45/Personal-Finance-Tracker-2)
 
 </td>
 </tr>
