@@ -116,7 +116,7 @@ If you’re building something exciting — I’d love to talk about that.
 ⭐ Exploring • Building • Improving — every day. -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Ayush%20Joshi&fontSize=36&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20Products%20That%20Matter&descSize=14&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Ayush%20Joshi&fontSize=36&fontColor=58a6ff&fontAlignY=35&desc=System%20Design%20%7C%20Backend%20%26%20Full-Stack%20Engineering&descSize=14&descAlignY=55&descAlign=50"/>
 </p>
 
 <p align="center">
@@ -134,8 +134,9 @@ If you’re building something exciting — I’d love to talk about that.
 const ayush = {
   role: "Software Engineer || Full-Stack Developer",
   education: "B.Tech CSE",
-  focus: ["Web Applications", "System Design", "User Experience"],
+  focus: ["System Design", "Microservices", "Web Applications", "User Experience"],
   currentlyBuilding: "ArcaneAI (AI workspace SaaS) & LinkBeam (URL shortener)",
+  architecture: ["API Gateway", "Event-Driven (RabbitMQ)", "Caching (Redis)", "Clean Architecture"],
   openTo: ["Internships", "Full-Time Roles", "Collaborations"],
 };
 ```
@@ -145,6 +146,7 @@ const ayush = {
 ### What I Do
 
 - 🏗️ Build **production-ready** full-stack applications
+- 🧩 Design **distributed systems** — API gateways, microservices, caching & queues
 - ⚡ Optimize for **performance** and **scalability**
 - 🎯 Ship features with **clean architecture**
 - 🔄 Practice **DSA** consistently for problem-solving
@@ -211,6 +213,23 @@ const ayush = {
 
 ---
 
+## 🧩 System Design in Practice
+
+Patterns I've actually shipped — from the source, not just theory.
+
+| Pattern | Where I've applied it |
+| --- | --- |
+| **API Gateway** | Single entry point for routing, JWT verification, rate limiting & security headers — LinkBeam, ArcaneAI |
+| **Microservices + clean architecture** | Controller → service → repository layers, one datastore per service, shared code in a common layer |
+| **Event-driven communication** | RabbitMQ pipeline: URL clicks → analytics service, asynchronous & eventually consistent |
+| **Caching strategy** | Redis in front of the redirect hot path — TTL-bounded entries, MongoDB only on a miss |
+| **Polyglot persistence** | PostgreSQL (Prisma) for users, MongoDB for links & click events, Redis as the cache tier |
+| **Auth & tokens** | JWT access tokens verified at the gateway; refresh-token rotation with HTTP-only cookies (ArcaneAI) |
+| **AI orchestration** | Agent graph that classifies intent and dispatches to specialized agents with shared memory (ArcaneAI) |
+| **Environment parity** | Docker Compose for the full stack — gateway, services and datastores boot with one command |
+
+---
+
 ## Featured Projects
 
 <table>
@@ -252,36 +271,19 @@ const ayush = {
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Career Tracker
-**Full-stack job search management platform**
-
-`Next.js 16` `TypeScript` `PostgreSQL` `Drizzle ORM` `Tailwind CSS`
-
-- Kanban board with drag-and-drop
-- Interview scheduling & reminders
-- Analytics dashboard with charts
-- Goal tracking & progress metrics
-
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ayushjoshi45/Career-Tracker)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎥 Live Interview Platform
 **Real-time technical interview system**
 
 `React` `Node.js` `WebRTC` `Socket.io` `MongoDB`
 
-- Peer-to-peer video calling
-- Collaborative code editor
-- Role-based authentication
-- Interview recording & playback
+- WebRTC peer-to-peer media, Socket.io signalling for room orchestration
+- Collaborative code editor with Google-Docs-style sync
+- Role-scoped access for interviewers & candidates
+- Recording & playback pipeline for review
 
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ayushjoshi45/Live-Interview-Platform)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💰 Finance Tracker
@@ -289,10 +291,10 @@ const ayush = {
 
 `React` `Node.js` `MongoDB` `Recharts`
 
-- Interactive dashboards
-- Category-wise analytics
-- Budget tracking
-- Export reports
+- Category-wise spend analytics aggregated for Recharts dashboards
+- MongoDB schema for transactions & budgets
+- Budget tracking with derived progress metrics
+- Exportable reports
 
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/ayushjoshi45/Personal-Finance-Tracker-2)
 
